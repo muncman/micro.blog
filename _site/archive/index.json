@@ -1,0 +1,1776 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kevin Munc",
+	"icon": "https://micro.blog/muncman/avatar.jpg",
+	"home_page_url": "https://muncman.micro.blog/",
+	"feed_url": "https://muncman.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/06/if-im-on.html",
+	      	
+			"content_text": "If I’m on the ‘features’ page for your desktop email...",
+			"date_published": "2018-12-05T23:10:59-05:00",
+			"url": "https://muncman.micro.blog/2018/12/05/if-im-on.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/05/im-not-sure.html",
+	      	
+			"content_text": "I’m not sure I’m doing this right. (Note: ‘this’ is...",
+			"date_published": "2018-12-05T14:36:07-05:00",
+			"url": "https://muncman.micro.blog/2018/12/05/im-not-sure.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/02/i-enjoy-this.html",
+	      	
+			"content_text": "I enjoy this IG account my friend has which depicts...",
+			"date_published": "2018-12-02T15:12:33-05:00",
+			"url": "https://muncman.micro.blog/2018/12/02/i-enjoy-this.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/14/i-could-use.html",
+	      	
+			"content_text": "I could use a batch delete option in Overcast. Is...",
+			"date_published": "2018-11-14T11:57:58-05:00",
+			"url": "https://muncman.micro.blog/2018/11/14/i-could-use.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/13/im-not-a.html",
+	      	
+			"content_text": "I’m not a huge fan of Grand Funk Railroad, but...",
+			"date_published": "2018-11-12T21:28:11-05:00",
+			"url": "https://muncman.micro.blog/2018/11/12/im-not-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/13/when-the-day.html",
+	      	
+			"content_text": "When the day comes that I get a (semi-)hollow body...",
+			"date_published": "2018-11-12T21:03:30-05:00",
+			"url": "https://muncman.micro.blog/2018/11/12/when-the-day.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/08/i-like-my.html",
+	      	
+			"content_text": "I like my GIF like I like my gin: tasty...",
+			"date_published": "2018-11-08T17:08:09-05:00",
+			"url": "https://muncman.micro.blog/2018/11/08/i-like-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/08/im-not-big.html",
+	      	
+			"content_text": "I’m not big on cross-posting, but I also don’t expect...",
+			"date_published": "2018-11-07T20:21:48-05:00",
+			"url": "https://muncman.micro.blog/2018/11/07/im-not-big.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/06/voting-accomplished-vote.html",
+	      	
+			"content_text": "Voting accomplished. VOTE VOTE VOTE VOTE VOTE VOTE VOTE VOTE...",
+			"date_published": "2018-11-06T08:38:49-05:00",
+			"url": "https://muncman.micro.blog/2018/11/06/voting-accomplished-vote.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/03/080109.html",
+	      	
+			"content_text": "I think I just accidentally started NaNoWriMo-ing.\n",
+			"date_published": "2018-11-03T04:01:09-04:00",
+			"url": "https://muncman.micro.blog/2018/11/03/080109.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/03/ive-never-had.html",
+	      	
+			"content_text": "I’ve never had one myself, but I must say that...",
+			"date_published": "2018-11-02T21:49:50-04:00",
+			"url": "https://muncman.micro.blog/2018/11/02/ive-never-had.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/01/i-think-my.html",
+	      	
+			"content_text": "I think my stick-shift car (GTI) is posing some issues...",
+			"date_published": "2018-11-01T13:50:39-04:00",
+			"url": "https://muncman.micro.blog/2018/11/01/i-think-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/01/once-again-my.html",
+	      	
+			"content_text": "Once again, my smoke machine was appreciated on Halloween.\n",
+			"date_published": "2018-11-01T00:08:55-04:00",
+			"url": "https://muncman.micro.blog/2018/11/01/once-again-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/30/ive-spent-so.html",
+	      	
+			"content_text": "I’ve spent so long waiting for a new Mac mini,...",
+			"date_published": "2018-10-30T16:48:13-04:00",
+			"url": "https://muncman.micro.blog/2018/10/30/ive-spent-so.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/30/this-short-episode.html",
+	      	
+			"content_text": "This short episode about shipping vessel noise’s impact on dolphin...",
+			"date_published": "2018-10-30T10:42:03-04:00",
+			"url": "https://muncman.micro.blog/2018/10/30/this-short-episode.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/21/i-really-like.html",
+	      	
+			"content_text": "I really like Clinton Reno’s concert poster style. I only...",
+			"date_published": "2018-10-21T15:14:18-04:00",
+			"url": "https://muncman.micro.blog/2018/10/21/i-really-like.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/16/sometimes-i-make.html",
+	      	
+			"content_text": "Sometimes I make mistakes. And being on muscle relaxers for...",
+			"date_published": "2018-10-16T01:06:23-04:00",
+			"url": "https://muncman.micro.blog/2018/10/16/sometimes-i-make.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/08/if-tld-was.html",
+	      	
+			"content_text": "If .tld was available as an actual top level domain...",
+			"date_published": "2018-10-08T19:26:23-04:00",
+			"url": "https://muncman.micro.blog/2018/10/08/if-tld-was.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/05/we-had-to.html",
+	      	
+			"content_text": "We had to say goodbye to our dog of 9...",
+			"date_published": "2018-10-05T11:35:05-04:00",
+			"url": "https://muncman.micro.blog/2018/10/05/we-had-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/05/missed-metal.html",
+	      	
+			"title": "Missed Metal",
+			
+			"content_text": "Another metal show was in town last night, but I...",
+			"date_published": "2018-10-05T11:31:15-04:00",
+			"url": "https://muncman.micro.blog/2018/10/05/missed-metal.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/04/well-trill-sounds.html",
+	      	
+			"content_text": "Well, Trill sounds interesting: From the iOS App Store —-...",
+			"date_published": "2018-10-04T01:13:45-04:00",
+			"url": "https://muncman.micro.blog/2018/10/04/well-trill-sounds.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/04/at-my-second.html",
+	      	
+			"content_text": "At my second metal concert of the fall: Goatmill (who...",
+			"date_published": "2018-10-03T20:54:45-04:00",
+			"url": "https://muncman.micro.blog/2018/10/03/at-my-second.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/02/i-support-the.html",
+	      	
+			"content_text": "I support the EFF. Do you? [Protect the Free, Fair,...",
+			"date_published": "2018-10-02T16:30:13-04:00",
+			"url": "https://muncman.micro.blog/2018/10/02/i-support-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/01/just-listened-to.html",
+	      	
+			"content_text": "Just listened to the latest episode of the Release Notes...",
+			"date_published": "2018-10-01T13:05:32-04:00",
+			"url": "https://muncman.micro.blog/2018/10/01/just-listened-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/01/032817.html",
+	      	
+			"content_text": "My wife is an incredible woman. Today marks 23 years...",
+			"date_published": "2018-09-30T23:28:17-04:00",
+			"url": "https://muncman.micro.blog/2018/09/30/032817.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/01/i-can-see.html",
+	      	
+			"content_text": "I can see an argument for this being a federal,...",
+			"date_published": "2018-09-30T21:27:34-04:00",
+			"url": "https://muncman.micro.blog/2018/09/30/i-can-see.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/29/at-my-first.html",
+	      	
+			"content_text": "At my first metal concert of the fall: Obscura, Beyond...",
+			"date_published": "2018-09-28T21:10:39-04:00",
+			"url": "https://muncman.micro.blog/2018/09/28/at-my-first.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/28/status-reminder-perspective.html",
+	      	
+			"title": "Status, Reminder, Perspective",
+			
+			"content_text": "I started a new contract earlier this month, and have...",
+			"date_published": "2018-09-27T21:02:51-04:00",
+			"url": "https://muncman.micro.blog/2018/09/27/status-reminder-perspective.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/22/im-really-enjoying.html",
+	      	
+			"content_text": "I’m really enjoying a friend’s secondary Instagram account. Old-timey photos...",
+			"date_published": "2018-09-22T11:46:38-04:00",
+			"url": "https://muncman.micro.blog/2018/09/22/im-really-enjoying.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/20/ive-just-begun.html",
+	      	
+			"content_text": "I’ve just begun listening to the book “The Order of...",
+			"date_published": "2018-09-20T18:59:58-04:00",
+			"url": "https://muncman.micro.blog/2018/09/20/ive-just-begun.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/19/today-im-working.html",
+	      	
+			"content_text": "Today, I’m working with Go, Python and Swift. It’s a...",
+			"date_published": "2018-09-19T15:49:12-04:00",
+			"url": "https://muncman.micro.blog/2018/09/19/today-im-working.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/19/these-pins-are.html",
+	      	
+			"content_text": "These pins are on my desk. I want to clean...",
+			"date_published": "2018-09-18T20:25:14-04:00",
+			"url": "https://muncman.micro.blog/2018/09/18/these-pins-are.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/12/current-status-checking.html",
+	      	
+			"content_text": "Current status: checking Micro.blog on my iPhone X (and getting...",
+			"date_published": "2018-09-12T12:41:34-04:00",
+			"url": "https://muncman.micro.blog/2018/09/12/current-status-checking.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/12/011529.html",
+	      	
+			"content_text": "TFW you are waiting for your machine to boot from...",
+			"date_published": "2018-09-11T21:15:29-04:00",
+			"url": "https://muncman.micro.blog/2018/09/11/011529.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/10/i-had-high.html",
+	      	
+			"content_text": "I had high hopes for kicking off the week with...",
+			"date_published": "2018-09-10T16:32:52-04:00",
+			"url": "https://muncman.micro.blog/2018/09/10/i-had-high.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/08/i-somehow-ended.html",
+	      	
+			"content_text": "I somehow ended up with too many Mastodon accounts. And...",
+			"date_published": "2018-09-08T12:09:06-04:00",
+			"url": "https://muncman.micro.blog/2018/09/08/i-somehow-ended.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/03/my-daughters-new.html",
+	      	
+			"content_text": "My daughter’s new laptop cover has begun its sticker journey....",
+			"date_published": "2018-09-03T14:58:18-04:00",
+			"url": "https://muncman.micro.blog/2018/09/03/my-daughters-new.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/02/sigh-someday-ill.html",
+	      	
+			"content_text": "Sigh. Someday I’ll have a perfect activity ring month. 6...",
+			"date_published": "2018-09-02T00:10:10-04:00",
+			"url": "https://muncman.micro.blog/2018/09/02/sigh-someday-ill.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/09/01/speaking-of-you.html",
+	      	
+			"content_text": "Speaking of “you guys,” who remembers this?\n",
+			"date_published": "2018-09-01T09:59:46-04:00",
+			"url": "https://muncman.micro.blog/2018/09/01/speaking-of-you.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/31/i-have-been.html",
+	      	
+			"content_text": "I have been enjoying Mastodon, and I still enjoy Pnut.io,...",
+			"date_published": "2018-08-31T19:19:29-04:00",
+			"url": "https://muncman.micro.blog/2018/08/31/i-have-been.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/31/im-too-cool.html",
+	      	
+			"content_text": "I’m too cool to congratulate @brentsimmons on the NetNewsWire news...",
+			"date_published": "2018-08-31T19:15:53-04:00",
+			"url": "https://muncman.micro.blog/2018/08/31/im-too-cool.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/31/i-will-continue.html",
+	      	
+			"content_text": "I will continue to work on it, but I’m finding...",
+			"date_published": "2018-08-31T18:21:26-04:00",
+			"url": "https://muncman.micro.blog/2018/08/31/i-will-continue.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/30/had-a-great.html",
+	      	
+			"content_text": "Had a great time at 360iDev this week. I’m glad...",
+			"date_published": "2018-08-30T14:08:02-04:00",
+			"url": "https://muncman.micro.blog/2018/08/30/had-a-great.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/28/mobile-backups-are.html",
+	      	
+			"title": "Mobile Backups are Mobile",
+			
+			"content_text": "I’m traveling this week for a conference. I learned, many...",
+			"date_published": "2018-08-28T03:22:43-04:00",
+			"url": "https://muncman.micro.blog/2018/08/28/mobile-backups-are.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/23/after-being-woken.html",
+	      	
+			"content_text": "After being woken up by a smoke detector (no idea...",
+			"date_published": "2018-08-23T07:15:01-04:00",
+			"url": "https://muncman.micro.blog/2018/08/23/after-being-woken.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/21/talk-to-you.html",
+	      	
+			"title": "Talk to you later, Facebook & Twitter",
+			
+			"content_text": "I just posted these. Facebook I’m going to take a...",
+			"date_published": "2018-08-21T18:33:09-04:00",
+			"url": "https://muncman.micro.blog/2018/08/21/talk-to-you.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/21/method-of-the.html",
+	      	
+			"title": "Method of the Month",
+			
+			"content_text": "Last night I was back at our local Ruby users...",
+			"date_published": "2018-08-21T15:34:15-04:00",
+			"url": "https://muncman.micro.blog/2018/08/21/method-of-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/21/i-was-trying.html",
+	      	
+			"content_text": "I was trying out the ‘Time Machine’ feature in the...",
+			"date_published": "2018-08-21T09:32:13-04:00",
+			"url": "https://muncman.micro.blog/2018/08/21/i-was-trying.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/20/i-think-its.html",
+	      	
+			"content_text": "I think it’s almost time to make time to re-read...",
+			"date_published": "2018-08-20T07:38:16-04:00",
+			"url": "https://muncman.micro.blog/2018/08/20/i-think-its.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/20/poignant-programming.html",
+	      	
+			"title": "Poignant Programming",
+			
+			"content_text": "“I’ll be straight with you. I want you to cry....",
+			"date_published": "2018-08-19T21:04:52-04:00",
+			"url": "https://muncman.micro.blog/2018/08/19/poignant-programming.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/19/i-cant-play.html",
+	      	
+			"content_text": "I can’t play guitar like this at all (yet?), but...",
+			"date_published": "2018-08-19T00:52:08-04:00",
+			"url": "https://muncman.micro.blog/2018/08/19/i-cant-play.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/18/if-you-are.html",
+	      	
+			"content_text": "If you are evaluating Twitter alternatives and worry that Mastodon...",
+			"date_published": "2018-08-18T00:08:30-04:00",
+			"url": "https://muncman.micro.blog/2018/08/18/if-you-are.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/16/potential-blogging-approach.html",
+	      	
+			"title": "Potential Blogging Approach?",
+			
+			"content_text": "I may have a kind of workflow developing here: I...",
+			"date_published": "2018-08-16T18:32:04-04:00",
+			"url": "https://muncman.micro.blog/2018/08/16/potential-blogging-approach.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/16/drafts-for-mac.html",
+	      	
+			"title": "Drafts for Mac is coming! ",
+			
+			"content_text": "Oh man. I’ve been hoping for this. For many years,...",
+			"date_published": "2018-08-16T18:01:49-04:00",
+			"url": "https://muncman.micro.blog/2018/08/16/drafts-for-mac.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/16/what-is-the.html",
+	      	
+			"content_text": "What is the “fail whale” equivalent for Mastodon?\n",
+			"date_published": "2018-08-16T01:26:32-04:00",
+			"url": "https://muncman.micro.blog/2018/08/16/what-is-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/16/some-of-my.html",
+	      	
+			"content_text": "Some of my friends may not know how to properly...",
+			"date_published": "2018-08-16T00:37:57-04:00",
+			"url": "https://muncman.micro.blog/2018/08/16/some-of-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/16/every-so-often.html",
+	      	
+			"content_text": "Every so often, when I see a headline about “Tesla”,...",
+			"date_published": "2018-08-15T20:13:23-04:00",
+			"url": "https://muncman.micro.blog/2018/08/15/every-so-often.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/14/frustratingly-hilarious-core.html",
+	      	
+			"title": "Frustratingly Hilarious:  'Core Philosophy' vs. Co-location in a Business' Reality, or \"Dog Food, Anyone?\"",
+			
+			"content_text": "As you may or may not know, I very much...",
+			"date_published": "2018-08-14T16:08:38-04:00",
+			"url": "https://muncman.micro.blog/2018/08/14/frustratingly-hilarious-core.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/14/time-solitude.html",
+	      	
+			"title": "Time & Solitude",
+			
+			"content_text": "Our daughter started high school today. Our son goes back...",
+			"date_published": "2018-08-14T09:09:53-04:00",
+			"url": "https://muncman.micro.blog/2018/08/14/time-solitude.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/12/guitar-blues-ireland.html",
+	      	
+			"title": "Guitar + Blues + Ireland",
+			
+			"content_text": "If you are either a guitar player or love the...",
+			"date_published": "2018-08-12T02:19:32-04:00",
+			"url": "https://muncman.micro.blog/2018/08/12/guitar-blues-ireland.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/11/i-finally-watched.html",
+	      	
+			"content_text": "I finally watched Filmage: The Story of Descendents/All tonight. Recommended....",
+			"date_published": "2018-08-11T00:20:36-04:00",
+			"url": "https://muncman.micro.blog/2018/08/11/i-finally-watched.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/10/my-wife-is.html",
+	      	
+			"content_text": "My wife is good at the gardening thing. These are...",
+			"date_published": "2018-08-10T13:45:24-04:00",
+			"url": "https://muncman.micro.blog/2018/08/10/my-wife-is.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/10/i-just-thought.html",
+	      	
+			"content_text": "I just thought about AOL keywords. Why did I do...",
+			"date_published": "2018-08-09T22:32:14-04:00",
+			"url": "https://muncman.micro.blog/2018/08/09/i-just-thought.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/10/i-was-just.html",
+	      	
+			"content_text": "I was just looking up at the nearly-dark sky above...",
+			"date_published": "2018-08-09T21:20:03-04:00",
+			"url": "https://muncman.micro.blog/2018/08/09/i-was-just.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/07/weird-follow-up.html",
+	      	
+			"content_text": "“Weird” follow up (reply w/ photo) @JohnPhilpin It looks like...",
+			"date_published": "2018-08-07T17:00:43-04:00",
+			"url": "https://muncman.micro.blog/2018/08/07/weird-follow-up.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/07/i-like-the.html",
+	      	
+			"content_text": "I like the Icro app for Micro.blog (partly since it...",
+			"date_published": "2018-08-07T12:47:03-04:00",
+			"url": "https://muncman.micro.blog/2018/08/07/i-like-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/06/i-miss-blind.html",
+	      	
+			"content_text": "I miss Blind Melon. \nThat first album was magic.\n",
+			"date_published": "2018-08-05T20:49:21-04:00",
+			"url": "https://muncman.micro.blog/2018/08/05/i-miss-blind.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/05/last-stop-last.html",
+	      	
+			"content_text": "Last stop last night.\n\n\n",
+			"date_published": "2018-08-05T00:34:07-04:00",
+			"url": "https://muncman.micro.blog/2018/08/05/last-stop-last.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/04/were-currently-losing.html",
+	      	
+			"content_text": "We’re currently losing. But it is still always enjoyable being...",
+			"date_published": "2018-08-03T21:02:42-04:00",
+			"url": "https://muncman.micro.blog/2018/08/03/were-currently-losing.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/03/game-imminent-our.html",
+	      	
+			"content_text": "Game imminent. Our minor league stadium is the best. In...",
+			"date_published": "2018-08-03T19:10:08-04:00",
+			"url": "https://muncman.micro.blog/2018/08/03/game-imminent-our.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/03/prejudice-something-we.html",
+	      	
+			"content_text": "“Prejudice: something we all can do without  A flag of...",
+			"date_published": "2018-08-03T16:44:35-04:00",
+			"url": "https://muncman.micro.blog/2018/08/03/prejudice-something-we.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/02/basetwelve-overcastfm.html",
+	      	
+			"content_text": "Base-twelve. 🤔 overcast.fm\n",
+			"date_published": "2018-08-02T18:17:26-04:00",
+			"url": "https://muncman.micro.blog/2018/08/02/basetwelve-overcastfm.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/02/i-havent-been.html",
+	      	
+			"content_text": "I haven’t been receiving push notifications on iOS for Micro.blog...",
+			"date_published": "2018-08-02T11:04:43-04:00",
+			"url": "https://muncman.micro.blog/2018/08/02/i-havent-been.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/08/01/its-august-now.html",
+	      	
+			"content_text": "It’s August now. It’s hot out. Guess that means it’s...",
+			"date_published": "2018-08-01T17:57:17-04:00",
+			"url": "https://muncman.micro.blog/2018/08/01/its-august-now.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/31/i-just-added.html",
+	      	
+			"content_text": "I just added these to my collection, and feel like...",
+			"date_published": "2018-07-30T23:35:23-04:00",
+			"url": "https://muncman.micro.blog/2018/07/30/i-just-added.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/31/the-first-tab.html",
+	      	
+			"content_text": "The first tab in the iTunes app on my phone...",
+			"date_published": "2018-07-30T23:14:06-04:00",
+			"url": "https://muncman.micro.blog/2018/07/30/the-first-tab.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/30/a-lack-of.html",
+	      	
+			"title": "(A Lack of) Recruiter Presentation Style",
+			
+			"content_text": "“Our records show that you are an IT professional with...",
+			"date_published": "2018-07-30T17:27:49-04:00",
+			"url": "https://muncman.micro.blog/2018/07/30/a-lack-of.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/29/tfw-disk-utility.html",
+	      	
+			"content_text": "TFW Disk Utility is pinwheeling.\n",
+			"date_published": "2018-07-29T10:28:04-04:00",
+			"url": "https://muncman.micro.blog/2018/07/29/tfw-disk-utility.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/21/i-spent-a.html",
+	      	
+			"content_text": "I spent a good while today playing a really nice...",
+			"date_published": "2018-07-20T22:17:34-04:00",
+			"url": "https://muncman.micro.blog/2018/07/20/i-spent-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/21/one-of-my.html",
+	      	
+			"content_text": "One of my favorites movie quotes: “A person is smart....",
+			"date_published": "2018-07-20T21:58:27-04:00",
+			"url": "https://muncman.micro.blog/2018/07/20/one-of-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/20/one-thing-i.html",
+	      	
+			"content_text": "One thing I like about New York City: fewer people...",
+			"date_published": "2018-07-20T13:11:54-04:00",
+			"url": "https://muncman.micro.blog/2018/07/20/one-thing-i.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/20/rant-is-apple.html",
+	      	
+			"content_text": "[rant] Is Apple intentionally making iTunes Match horrible as a...",
+			"date_published": "2018-07-20T00:42:42-04:00",
+			"url": "https://muncman.micro.blog/2018/07/20/rant-is-apple.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/20/well-look-at.html",
+	      	
+			"content_text": "Well, look at that.\n\nI’m in NYC.\n",
+			"date_published": "2018-07-19T22:06:51-04:00",
+			"url": "https://muncman.micro.blog/2018/07/19/well-look-at.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/18/now-happily-finding.html",
+	      	
+			"content_text": "Now happily finding myself in the midst of an ad...",
+			"date_published": "2018-07-18T19:15:59-04:00",
+			"url": "https://muncman.micro.blog/2018/07/18/now-happily-finding.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/18/who-else-remembers.html",
+	      	
+			"content_text": "Who else remembers this 1992 track from the underrated Florida...",
+			"date_published": "2018-07-18T18:42:57-04:00",
+			"url": "https://muncman.micro.blog/2018/07/18/who-else-remembers.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/17/i-need-to.html",
+	      	
+			"content_text": "I need to start posting more of the (many) photos...",
+			"date_published": "2018-07-16T22:53:20-04:00",
+			"url": "https://muncman.micro.blog/2018/07/16/i-need-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/12/i-still-do.html",
+	      	
+			"content_text": "I still do Tw, a little FB, check in on...",
+			"date_published": "2018-07-12T16:39:47-04:00",
+			"url": "https://muncman.micro.blog/2018/07/12/i-still-do.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/12/tfw-you-are.html",
+	      	
+			"content_text": "TFW you are reading a technical article that starts out...",
+			"date_published": "2018-07-12T16:32:40-04:00",
+			"url": "https://muncman.micro.blog/2018/07/12/tfw-you-are.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/10/ill-be-happy.html",
+	      	
+			"content_text": "I’ll be happy when the day arrives where I can...",
+			"date_published": "2018-07-10T19:36:19-04:00",
+			"url": "https://muncman.micro.blog/2018/07/10/ill-be-happy.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/08/so-bummed-stipe.html",
+	      	
+			"content_text": "So bummed Stipe lost tonight. I feel like the Cleveland...",
+			"date_published": "2018-07-08T01:32:59-04:00",
+			"url": "https://muncman.micro.blog/2018/07/08/so-bummed-stipe.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/07/who-is-todays.html",
+	      	
+			"title": "Who is today's Jello Biafra? ",
+			
+			"content_text": "Where is all of the angry political music I thought...",
+			"date_published": "2018-07-07T00:05:52-04:00",
+			"url": "https://muncman.micro.blog/2018/07/07/who-is-todays.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/07/tfw-you-put.html",
+	      	
+			"content_text": "TFW you put a breakpoint in a legacy UIViewController –...",
+			"date_published": "2018-07-06T22:40:37-04:00",
+			"url": "https://muncman.micro.blog/2018/07/06/tfw-you-put.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/07/05/i-still-symbolic.html",
+	      	
+			"content_text": "I still 💚 symbolic breakpoints in Xcode.\n",
+			"date_published": "2018-07-05T18:05:14-04:00",
+			"url": "https://muncman.micro.blog/2018/07/05/i-still-symbolic.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/29/i-run-malwarebytes.html",
+	      	
+			"content_text": "I run Malwarebytes Premium in my Mac, so I’m going...",
+			"date_published": "2018-06-29T01:10:14-04:00",
+			"url": "https://muncman.micro.blog/2018/06/29/i-run-malwarebytes.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/26/do-you-like.html",
+	      	
+			"title": "Do you like your weekday metal music a little early?",
+			
+			"content_text": "The Alrosa Villa is a metal-friendly venue in Columbus, Ohio....",
+			"date_published": "2018-06-26T19:35:54-04:00",
+			"url": "https://muncman.micro.blog/2018/06/26/do-you-like.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/24/if-you-like.html",
+	      	
+			"content_text": "If you like bugs (and who doesn’t, amirite?), check out...",
+			"date_published": "2018-06-24T10:49:43-04:00",
+			"url": "https://muncman.micro.blog/2018/06/24/if-you-like.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/23/paltry-playlist-powers.html",
+	      	
+			"title": "Paltry Playlist Powers",
+			
+			"content_text": "I wish iOS’ Music.app had more than the most rudimentary...",
+			"date_published": "2018-06-23T12:40:43-04:00",
+			"url": "https://muncman.micro.blog/2018/06/23/paltry-playlist-powers.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/21/admission-of-guilt.html",
+	      	
+			"content_text": "Admission of guilt: I add things to my read-later list...",
+			"date_published": "2018-06-20T20:37:08-04:00",
+			"url": "https://muncman.micro.blog/2018/06/20/admission-of-guilt.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/19/getting-together-as.html",
+	      	
+			"title": "Getting Together as a Service",
+			
+			"content_text": "I was casually looking at scheduling tools recently. I was...",
+			"date_published": "2018-06-19T14:57:09-04:00",
+			"url": "https://muncman.micro.blog/2018/06/19/getting-together-as.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/14/over-the-years.html",
+	      	
+			"content_text": "Over the years, I have used a progression of editors...",
+			"date_published": "2018-06-14T13:48:53-04:00",
+			"url": "https://muncman.micro.blog/2018/06/14/over-the-years.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/13/will-there-ever.html",
+	      	
+			"content_text": "Will there ever be another Van Halen?\n",
+			"date_published": "2018-06-13T13:26:14-04:00",
+			"url": "https://muncman.micro.blog/2018/06/13/will-there-ever.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/13/dear-usps-way.html",
+	      	
+			"content_text": "Dear USPS, Way to go. Sincerely, Your friend in Columbus,...",
+			"date_published": "2018-06-13T10:04:56-04:00",
+			"url": "https://muncman.micro.blog/2018/06/13/dear-usps-way.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/12/jimis-version-is.html",
+	      	
+			"content_text": "Jimi’s version is one of my favorite songs of all...",
+			"date_published": "2018-06-11T20:05:31-04:00",
+			"url": "https://muncman.micro.blog/2018/06/11/jimis-version-is.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/11/i-used-to.html",
+	      	
+			"content_text": "I used to like the show M✼A✼S✻H when I was...",
+			"date_published": "2018-06-11T08:22:56-04:00",
+			"url": "https://muncman.micro.blog/2018/06/11/i-used-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/08/personal-beard-space.html",
+	      	
+			"title": "Personal Beard Space",
+			
+			"content_text": "Having a chin-beard has shown me that there are three...",
+			"date_published": "2018-06-07T20:51:25-04:00",
+			"url": "https://muncman.micro.blog/2018/06/07/personal-beard-space.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/05/i-watched-the.html",
+	      	
+			"content_text": "I watched the WWDC Keynote, but nothing else so far....",
+			"date_published": "2018-06-04T23:50:52-04:00",
+			"url": "https://muncman.micro.blog/2018/06/04/i-watched-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/03/i-just-made.html",
+	      	
+			"content_text": "I just made a capo joke. 🎸 And my wife...",
+			"date_published": "2018-06-02T22:29:07-04:00",
+			"url": "https://muncman.micro.blog/2018/06/02/i-just-made.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/02/i-know-has.html",
+	      	
+			"content_text": "I know 🎸 has been suggested as a tagmoji for...",
+			"date_published": "2018-06-01T22:48:30-04:00",
+			"url": "https://muncman.micro.blog/2018/06/01/i-know-has.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/01/well-all-else.html",
+	      	
+			"content_text": "Well, all else being equal, I hope the bay area...",
+			"date_published": "2018-05-31T23:46:10-04:00",
+			"url": "https://muncman.micro.blog/2018/05/31/well-all-else.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/06/01/envisioning-a-bold.html",
+	      	
+			"content_text": "Envisioning a bold future where m•b is so popular that...",
+			"date_published": "2018-05-31T21:13:48-04:00",
+			"url": "https://muncman.micro.blog/2018/05/31/envisioning-a-bold.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/30/i-am-now.html",
+	      	
+			"content_text": "I am now the parent of two high schoolers. I’m...",
+			"date_published": "2018-05-30T17:52:30-04:00",
+			"url": "https://muncman.micro.blog/2018/05/30/i-am-now.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/30/its-fun-when.html",
+	      	
+			"content_text": "It’s fun when you have a conversation with a friend...",
+			"date_published": "2018-05-30T00:42:43-04:00",
+			"url": "https://muncman.micro.blog/2018/05/30/its-fun-when.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/28/im-curious-what.html",
+	      	
+			"content_text": "I’m curious what @joec thinks of this.\n",
+			"date_published": "2018-05-28T01:38:50-04:00",
+			"url": "https://muncman.micro.blog/2018/05/28/im-curious-what.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/27/started-spring-cleaning.html",
+	      	
+			"content_text": "Started spring cleaning the home office. Guessing I don’t need...",
+			"date_published": "2018-05-27T15:36:05-04:00",
+			"url": "https://muncman.micro.blog/2018/05/27/started-spring-cleaning.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/26/lately-instagram-has.html",
+	      	
+			"content_text": "Lately, Instagram has been playing audio from posts I am...",
+			"date_published": "2018-05-26T17:17:38-04:00",
+			"url": "https://muncman.micro.blog/2018/05/26/lately-instagram-has.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/25/i-love-watching.html",
+	      	
+			"content_text": "I love watching the ISS fly over.\n",
+			"date_published": "2018-05-24T21:31:02-04:00",
+			"url": "https://muncman.micro.blog/2018/05/24/i-love-watching.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/23/a-little-time.html",
+	      	
+			"title": "A Little Time on Podcast Player Options",
+			
+			"content_text": "I’ve been trying out Supertop’s Castro 3, and it is...",
+			"date_published": "2018-05-23T18:45:22-04:00",
+			"url": "https://muncman.micro.blog/2018/05/23/a-little-time.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/22/a-comedy-sketch.html",
+	      	
+			"content_text": "A comedy sketch filled with famous guitar and bass players....",
+			"date_published": "2018-05-21T20:50:59-04:00",
+			"url": "https://muncman.micro.blog/2018/05/21/a-comedy-sketch.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/05/03/gig-decisions.html",
+	      	
+			"title": "Gig Decisions",
+			
+			"content_text": "4 days into a contract-to-hire gig. Getting rolling while keeping...",
+			"date_published": "2018-05-03T09:37:21-04:00",
+			"url": "https://muncman.micro.blog/2018/05/03/gig-decisions.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/27/my-yo-daughter.html",
+	      	
+			"content_text": "My 13yo daughter just asked me about accessibility options on...",
+			"date_published": "2018-04-27T17:00:07-04:00",
+			"url": "https://muncman.micro.blog/2018/04/27/my-yo-daughter.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/27/scruffy-smileys.html",
+	      	
+			"title": "Scruffy Smiley Progression",
+			
+			"content_text": "I was just messing around on my iPad and added...",
+			"date_published": "2018-04-27T01:38:25-04:00",
+			"url": "https://muncman.micro.blog/2018/04/27/scruffy-smileys.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/26/just-spotted-a.html",
+	      	
+			"content_text": "Just spotted: a Mini Cooper wagon (Clubman?), all black, with...",
+			"date_published": "2018-04-26T18:46:53-04:00",
+			"url": "https://muncman.micro.blog/2018/04/26/just-spotted-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/20/my-stand-hours.html",
+	      	
+			"content_text": "My stand hours the last two days were impressive despite...",
+			"date_published": "2018-04-20T15:00:03-04:00",
+			"url": "https://muncman.micro.blog/2018/04/20/my-stand-hours.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/13/i-was-prompted.html",
+	      	
+			"content_text": "I was prompted to finally watch the movie “A Man...",
+			"date_published": "2018-04-13T19:09:09-04:00",
+			"url": "https://muncman.micro.blog/2018/04/13/i-was-prompted.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/13/even-though-i.html",
+	      	
+			"content_text": "Even though I grew up with some live albums in...",
+			"date_published": "2018-04-13T07:15:06-04:00",
+			"url": "https://muncman.micro.blog/2018/04/13/even-though-i.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/10/this-is-how.html",
+	      	
+			"content_text": "This is how you pass the time waiting for CocoaHeads...",
+			"date_published": "2018-04-10T17:11:08-04:00",
+			"url": "https://muncman.micro.blog/2018/04/10/this-is-how.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/09/i-think-im.html",
+	      	
+			"content_text": "I think I’m good at most types of decision-making. But...",
+			"date_published": "2018-04-09T13:03:21-04:00",
+			"url": "https://muncman.micro.blog/2018/04/09/i-think-im.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/04/05/im-thinking-i.html",
+	      	
+			"content_text": "I’m thinking I could use a pneumatic tube system between...",
+			"date_published": "2018-04-05T17:08:10-04:00",
+			"url": "https://muncman.micro.blog/2018/04/05/im-thinking-i.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/28/yes-charles-for.html",
+	      	
+			"content_text": "YES!!  Charles for iOS\n",
+			"date_published": "2018-03-27T20:07:18-04:00",
+			"url": "https://muncman.micro.blog/2018/03/27/yes-charles-for.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/26/i-wonder-if.html",
+	      	
+			"content_text": "I wonder if I will have to lose a few...",
+			"date_published": "2018-03-25T22:23:21-04:00",
+			"url": "https://muncman.micro.blog/2018/03/25/i-wonder-if.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/25/new-bomb-turks.html",
+	      	
+			"title": "New Bomb Turks",
+			
+			"content_text": "I got to see the New Bomb Turks again tonight....",
+			"date_published": "2018-03-25T02:06:38-04:00",
+			"url": "https://muncman.micro.blog/2018/03/25/new-bomb-turks.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/22/my-custom-alert.html",
+	      	
+			"content_text": "My custom alert tones from way back. If I added...",
+			"date_published": "2018-03-21T23:07:16-04:00",
+			"url": "https://muncman.micro.blog/2018/03/21/my-custom-alert.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/13/i-could-go.html",
+	      	
+			"content_text": "I could go for a big dose of Van Halen...",
+			"date_published": "2018-03-13T13:41:34-04:00",
+			"url": "https://muncman.micro.blog/2018/03/13/i-could-go.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/08/is-there-a.html",
+	      	
+			"content_text": "Is there a book (or maybe good, long article) about...",
+			"date_published": "2018-03-07T20:03:30-05:00",
+			"url": "https://muncman.micro.blog/2018/03/07/is-there-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/07/yesterday-someone-mentioned.html",
+	      	
+			"content_text": "Yesterday someone mentioned SGML and DSSSL. Today a different person...",
+			"date_published": "2018-03-07T18:59:41-05:00",
+			"url": "https://muncman.micro.blog/2018/03/07/yesterday-someone-mentioned.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/07/ive-been-playing.html",
+	      	
+			"content_text": "I’ve been playing, here and there, with different iOS-side network...",
+			"date_published": "2018-03-07T18:47:31-05:00",
+			"url": "https://muncman.micro.blog/2018/03/07/ive-been-playing.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/06/i-techreviewed-a.html",
+	      	
+			"content_text": "I tech-reviewed a book that has now been published. And...",
+			"date_published": "2018-03-06T01:13:45-05:00",
+			"url": "https://muncman.micro.blog/2018/03/06/i-techreviewed-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/04/you-know-those.html",
+	      	
+			"content_text": "You know those rubber-y wristbands for causes and whatnot? This...",
+			"date_published": "2018-03-04T00:13:55-05:00",
+			"url": "https://muncman.micro.blog/2018/03/04/you-know-those.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/01/rough-thought-i.html",
+	      	
+			"content_text": "Rough thought I should turn into a longer post: I...",
+			"date_published": "2018-03-01T17:57:38-05:00",
+			"url": "https://muncman.micro.blog/2018/03/01/rough-thought-i.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/03/01/upper-arlington-high.html",
+	      	
+			"content_text": "Upper Arlington High School: Attending a college prep info session....",
+			"date_published": "2018-02-28T19:00:10-05:00",
+			"url": "https://muncman.micro.blog/2018/02/28/upper-arlington-high.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/25/cleaning-out-a.html",
+	      	
+			"content_text": "Cleaning out a drawer, found old juggling bean bags. Still...",
+			"date_published": "2018-02-25T01:03:28-05:00",
+			"url": "https://muncman.micro.blog/2018/02/25/cleaning-out-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/24/currently-at-a.html",
+	      	
+			"content_text": "Currently at a Guitars Not Guns benefit show.\n",
+			"date_published": "2018-02-23T20:21:16-05:00",
+			"url": "https://muncman.micro.blog/2018/02/23/currently-at-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/21/words-words.html",
+	      	
+			"title": "3 Words + 1,000 Words",
+			
+			"content_text": "Just trying out the 3WordPhoto app from What3Words. Those are...",
+			"date_published": "2018-02-21T10:51:40-05:00",
+			"url": "https://muncman.micro.blog/2018/02/21/words-words.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/20/any-good-or.html",
+	      	
+			"content_text": "Any good or bad of it aside, if you took...",
+			"date_published": "2018-02-19T23:12:37-05:00",
+			"url": "https://muncman.micro.blog/2018/02/19/any-good-or.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/17/i-dont-want.html",
+	      	
+			"content_text": "I don’t want to hurt anybody’s feelings, but it is...",
+			"date_published": "2018-02-17T14:32:24-05:00",
+			"url": "https://muncman.micro.blog/2018/02/17/i-dont-want.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/17/a-different-kind.html",
+	      	
+			"title": "A Different Kind of Music Subscription",
+			
+			"content_text": "I came across independent music label Hypnotic Dirge Records’ account...",
+			"date_published": "2018-02-16T20:40:20-05:00",
+			"url": "https://muncman.micro.blog/2018/02/16/a-different-kind.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/16/apple-tv-recommended.html",
+	      	
+			"title": "Apple TV: Recommended Movies",
+			
+			"content_text": "We’ve bought movies. Rented movies. Watched countless previews and trailers....",
+			"date_published": "2018-02-16T18:50:31-05:00",
+			"url": "https://muncman.micro.blog/2018/02/16/apple-tv-recommended.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/13/i-xf-ifixit.html",
+	      	
+			"title": "I &#x1F499; iFixit",
+			
+			"content_text": "I have become much better at iPhone repair than I...",
+			"date_published": "2018-02-13T15:30:58-05:00",
+			"url": "https://muncman.micro.blog/2018/02/13/i-xf-ifixit.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/12/my-wife-signed.html",
+	      	
+			"content_text": "My wife signed up for Audible using our shared Amazon...",
+			"date_published": "2018-02-12T10:50:35-05:00",
+			"url": "https://muncman.micro.blog/2018/02/12/my-wife-signed.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/08/gonna-have-a.html",
+	      	
+			"content_text": "\n\nGonna have a bit of Aberlour A’bunadh. 🥃\n\n",
+			"date_published": "2018-02-07T21:13:56-05:00",
+			"url": "https://muncman.micro.blog/2018/02/07/gonna-have-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/07/snow-exercise.html",
+	      	
+			"title": "Snow => Exercise",
+			
+			"content_text": "Snow blowing &amp; shoveling. Driveway, sidewalk, front walk, front +...",
+			"date_published": "2018-02-07T12:40:13-05:00",
+			"url": "https://muncman.micro.blog/2018/02/07/snow-exercise.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/07/my-backpack-is.html",
+	      	
+			"content_text": "My backpack is heavier than your backpack.\n",
+			"date_published": "2018-02-06T21:11:07-05:00",
+			"url": "https://muncman.micro.blog/2018/02/06/my-backpack-is.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/02/01/building-a-habit.html",
+	      	
+			"title": "Building a Habit",
+			
+			"content_text": "My first-ever perfect month with my Apple Watch. Not as...",
+			"date_published": "2018-02-01T00:01:03-05:00",
+			"url": "https://muncman.micro.blog/2018/02/01/building-a-habit.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/30/joining-some-more.html",
+	      	
+			"content_text": "Joining some more Slacks lately. I had declined to join...",
+			"date_published": "2018-01-30T14:32:46-05:00",
+			"url": "https://muncman.micro.blog/2018/01/30/joining-some-more.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/26/my-busiest-slack.html",
+	      	
+			"content_text": "My busiest Slack today is the one for local (central...",
+			"date_published": "2018-01-26T12:36:40-05:00",
+			"url": "https://muncman.micro.blog/2018/01/26/my-busiest-slack.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/26/yo-hobby.html",
+	      	
+			"title": "40yo Hobby",
+			
+			"content_text": "I collect knives. Sort of. Mostly pocket knives. I am...",
+			"date_published": "2018-01-25T22:42:55-05:00",
+			"url": "https://muncman.micro.blog/2018/01/25/yo-hobby.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/26/rant-streaming-music.html",
+	      	
+			"title": "Rant:  Streaming Music Services & App Store Pricing",
+			
+			"content_text": "I really wish iTunes Match wasn’t such a mess. Why?...",
+			"date_published": "2018-01-25T22:23:16-05:00",
+			"url": "https://muncman.micro.blog/2018/01/25/rant-streaming-music.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/25/munc-manor-yep.html",
+	      	
+			"content_text": "Munc Manor: Yep. I’m at home. And doing software stuff,...",
+			"date_published": "2018-01-24T22:12:42-05:00",
+			"url": "https://muncman.micro.blog/2018/01/24/munc-manor-yep.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/24/some-pics-from.html",
+	      	
+			"title": "Some Pics From an Old Vacation",
+			
+			"content_text": "I grabbed these off my brother-in-law’s Facebook feed recently. They...",
+			"date_published": "2018-01-24T18:24:04-05:00",
+			"url": "https://muncman.micro.blog/2018/01/24/some-pics-from.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/22/for-months-ive.html",
+	      	
+			"content_text": "For months I’ve been using Terminal and Spotlight on my...",
+			"date_published": "2018-01-21T19:39:31-05:00",
+			"url": "https://muncman.micro.blog/2018/01/21/for-months-ive.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/19/so-far.html",
+	      	
+			"title": "2018 So Far",
+			
+			"content_text": "This has been a crazy busy year so far. I’ve...",
+			"date_published": "2018-01-19T14:59:20-05:00",
+			"url": "https://muncman.micro.blog/2018/01/19/so-far.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/11/why-the-heck.html",
+	      	
+			"content_text": "Why the heck didn’t I stand up at 3am?\n\n\n",
+			"date_published": "2018-01-10T23:26:21-05:00",
+			"url": "https://muncman.micro.blog/2018/01/10/why-the-heck.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/11/i-should-totally.html",
+	      	
+			"content_text": "I should totally be at CES with my “AR/VR ‘Behavior...",
+			"date_published": "2018-01-10T21:00:59-05:00",
+			"url": "https://muncman.micro.blog/2018/01/10/i-should-totally.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/11/microblogging-isnt-a.html",
+	      	
+			"content_text": "“Micro-blogging isn’t a short-term trend - it is here to...",
+			"date_published": "2018-01-10T20:39:47-05:00",
+			"url": "https://muncman.micro.blog/2018/01/10/microblogging-isnt-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/01/09/unsigned-ipsws-why.html",
+	      	
+			"title": "Unsigned IPSWs: Why?",
+			
+			"content_text": "I cannot tell you how annoyed I am right now...",
+			"date_published": "2018-01-09T16:31:58-05:00",
+			"url": "https://muncman.micro.blog/2018/01/09/unsigned-ipsws-why.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/31/looking-back.html",
+	      	
+			"title": "Looking Back",
+			
+			"content_text": "As I look ahead to blogging in 2018, I’m also...",
+			"date_published": "2017-12-31T18:43:05-05:00",
+			"url": "https://muncman.micro.blog/2017/12/31/looking-back.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/31/test-post-from.html",
+	      	
+			"title": "Test Post from MarsEdit",
+			
+			"content_text": "This is my very first time using MarsEdit. Hoping to...",
+			"date_published": "2017-12-31T18:03:25-05:00",
+			"url": "https://muncman.micro.blog/2017/12/31/test-post-from.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/30/if-im-lucky.html",
+	      	
+			"content_text": "If I’m lucky, I’ll have my task list for this...",
+			"date_published": "2017-12-30T12:01:12-05:00",
+			"url": "https://muncman.micro.blog/2017/12/30/if-im-lucky.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/28/tfw-you-edit.html",
+	      	
+			"content_text": "TFW you edit a constraint in Xcode and your entire...",
+			"date_published": "2017-12-27T19:08:53-05:00",
+			"url": "https://muncman.micro.blog/2017/12/27/tfw-you-edit.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/27/direct-primary-care.html",
+	      	
+			"title": "Direct Primary Care",
+			
+			"content_text": "Just read about a local DPC medical clinic. Sounds like...",
+			"date_published": "2017-12-27T16:25:39-05:00",
+			"url": "https://muncman.micro.blog/2017/12/27/direct-primary-care.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/25/surviving-christmas-so.html",
+	      	
+			"content_text": "Surviving Christmas.\n\nSo far.\n\nInvasion of relatives imminent.\n",
+			"date_published": "2017-12-25T14:15:32-05:00",
+			"url": "https://muncman.micro.blog/2017/12/25/surviving-christmas-so.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/16/natgeo-post-of.html",
+	      	
+			"content_text": "NatGeo post of Elephant Nature Park: instagram.com/p/Bck8KLw… My wife and...",
+			"date_published": "2017-12-16T18:09:15-05:00",
+			"url": "https://muncman.micro.blog/2017/12/16/natgeo-post-of.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/16/just-saw-the.html",
+	      	
+			"content_text": "Just saw the new Star Wars movie. I wore my...",
+			"date_published": "2017-12-15T23:00:47-05:00",
+			"url": "https://muncman.micro.blog/2017/12/15/just-saw-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/13/the-actuaries-have.html",
+	      	
+			"title": "The Actuaries Have Been Sure for Years",
+			
+			"content_text": "“If you’re still on the fence about the nearterm threats...",
+			"date_published": "2017-12-12T19:42:23-05:00",
+			"url": "https://muncman.micro.blog/2017/12/12/the-actuaries-have.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/12/160845.html",
+	      	
+			"content_text": "Frightening. \nwww.schneier.com\n\n\n  Remote Hack of a Boeing 757\n\n",
+			"date_published": "2017-12-12T11:08:45-05:00",
+			"url": "https://muncman.micro.blog/2017/12/12/160845.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/11/went-to-grab.html",
+	      	
+			"content_text": "Went to grab the Amazon Prime Video app for Apple...",
+			"date_published": "2017-12-11T17:31:55-05:00",
+			"url": "https://muncman.micro.blog/2017/12/11/went-to-grab.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/12/01/might-it-be.html",
+	      	
+			"content_text": "Might it be a problem that most voice assistant genders...",
+			"date_published": "2017-12-01T18:26:48-05:00",
+			"url": "https://muncman.micro.blog/2017/12/01/might-it-be.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/26/there-are-a.html",
+	      	
+			"content_text": "There are a LOT of things I should be doing...",
+			"date_published": "2017-11-25T22:24:32-05:00",
+			"url": "https://muncman.micro.blog/2017/11/25/there-are-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/23/045904.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-22T23:59:04-05:00",
+			"url": "https://muncman.micro.blog/2017/11/22/045904.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/21/050416.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-21T00:04:16-05:00",
+			"url": "https://muncman.micro.blog/2017/11/21/050416.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/21/045211.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-20T23:52:11-05:00",
+			"url": "https://muncman.micro.blog/2017/11/20/045211.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/19/day.html",
+	      	
+			"content_text": "Day 4.\n\n\n",
+			"date_published": "2017-11-19T16:23:05-05:00",
+			"url": "https://muncman.micro.blog/2017/11/19/day.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/19/033640.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-18T22:36:40-05:00",
+			"url": "https://muncman.micro.blog/2017/11/18/033640.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/18/tonight-my-year.html",
+	      	
+			"content_text": "Tonight my 15 year old son —who has been taking...",
+			"date_published": "2017-11-17T22:45:47-05:00",
+			"url": "https://muncman.micro.blog/2017/11/17/tonight-my-year.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/18/032535.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-17T22:25:35-05:00",
+			"url": "https://muncman.micro.blog/2017/11/17/032535.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/17/recruiter-reply-this.html",
+	      	
+			"content_text": "Recruiter reply: “… this is not a remote position but...",
+			"date_published": "2017-11-17T10:51:35-05:00",
+			"url": "https://muncman.micro.blog/2017/11/17/recruiter-reply-this.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/17/011605.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-11-16T20:16:05-05:00",
+			"url": "https://muncman.micro.blog/2017/11/16/011605.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/17/an-extra-busy.html",
+	      	
+			"content_text": "An extra busy week has been my excuse for not...",
+			"date_published": "2017-11-16T19:59:23-05:00",
+			"url": "https://muncman.micro.blog/2017/11/16/an-extra-busy.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/14/just-removed-the.html",
+	      	
+			"content_text": "Just removed the city/state/zip from my LinkedIn profile. Maybe, just...",
+			"date_published": "2017-11-14T01:54:20-05:00",
+			"url": "https://muncman.micro.blog/2017/11/14/just-removed-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/14/otherswiftflags-manually.html",
+	      	
+			"title": "OTHER_SWIFT_FLAGS Manually",
+			
+			"content_text": "The “Swift Compiler - Custom Flags” section showed up in...",
+			"date_published": "2017-11-13T22:36:23-05:00",
+			"url": "https://muncman.micro.blog/2017/11/13/otherswiftflags-manually.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/06/a-konami-codeesque.html",
+	      	
+			"title": "A Konami Code-esque Sequence to Power Cycle an iPhone X?",
+			
+			"content_text": "My iPhone X arrived today. The ‘automatic’ setup from nearby...",
+			"date_published": "2017-11-06T18:33:00-05:00",
+			"url": "https://muncman.micro.blog/2017/11/06/a-konami-codeesque.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/11/01/smoke-or-fog.html",
+	      	
+			"content_text": "Smoke (or fog) machines are fun year round, but they...",
+			"date_published": "2017-10-31T23:09:39-04:00",
+			"url": "https://muncman.micro.blog/2017/10/31/smoke-or-fog.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/10/26/blade-runner.html",
+	      	
+			"title": "Blade Runner + 16",
+			
+			"content_text": "The original Blade Runner movie came out in 1982. 16...",
+			"date_published": "2017-10-25T22:48:12-04:00",
+			"url": "https://muncman.micro.blog/2017/10/25/blade-runner.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/10/11/i-could-really.html",
+	      	
+			"content_text": "I could really use a kick-ass share extension for putting...",
+			"date_published": "2017-10-11T00:23:45-04:00",
+			"url": "https://muncman.micro.blog/2017/10/11/i-could-really.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/10/07/just-switched-the.html",
+	      	
+			"content_text": "Just switched the web link in my Twitter profile from...",
+			"date_published": "2017-10-07T10:50:08-04:00",
+			"url": "https://muncman.micro.blog/2017/10/07/just-switched-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/09/30/years-ago-today.html",
+	      	
+			"content_text": "22 years ago today I was in a church. And...",
+			"date_published": "2017-09-30T12:24:47-04:00",
+			"url": "https://muncman.micro.blog/2017/09/30/years-ago-today.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/09/19/052807.html",
+	      	
+			"content_text": "Bluetooth Vulnerabilities Fully patched Windows and iOS systems are protected...",
+			"date_published": "2017-09-19T01:28:07-04:00",
+			"url": "https://muncman.micro.blog/2017/09/19/052807.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/09/15/i-started-this.html",
+	      	
+			"content_text": "I started this reply directly in Twitter, but then decided...",
+			"date_published": "2017-09-15T01:43:55-04:00",
+			"url": "https://muncman.micro.blog/2017/09/15/i-started-this.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/09/13/part-of-me.html",
+	      	
+			"content_text": "Part of me really wants to do productive things right...",
+			"date_published": "2017-09-12T21:28:49-04:00",
+			"url": "https://muncman.micro.blog/2017/09/12/part-of-me.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/09/12/i-want-the.html",
+	      	
+			"content_text": "I want the iPhone X, but I also am still...",
+			"date_published": "2017-09-12T18:08:01-04:00",
+			"url": "https://muncman.micro.blog/2017/09/12/i-want-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/08/23/i-rarely-used.html",
+	      	
+			"content_text": "I rarely used Xcode plugins, but I do kind of...",
+			"date_published": "2017-08-23T10:26:06-04:00",
+			"url": "https://muncman.micro.blog/2017/08/23/i-rarely-used.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/08/22/i-think-ill.html",
+	      	
+			"content_text": "I think I’ll start using Micro.blog in earnest once I’ve...",
+			"date_published": "2017-08-22T08:52:50-04:00",
+			"url": "https://muncman.micro.blog/2017/08/22/i-think-ill.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/08/06/a-couple-of.html",
+	      	
+			"content_text": "A couple of butterflies photobombed my shot.\n\n\n",
+			"date_published": "2017-08-06T12:14:29-04:00",
+			"url": "https://muncman.micro.blog/2017/08/06/a-couple-of.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/08/06/i-still-use.html",
+	      	
+			"content_text": "I still use MailMate as my desktop email client. I...",
+			"date_published": "2017-08-06T12:00:14-04:00",
+			"url": "https://muncman.micro.blog/2017/08/06/i-still-use.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/06/26/ugh-i-apparently.html",
+	      	
+			"content_text": "Ugh. I apparently had my hand touching my beard while...",
+			"date_published": "2017-06-26T07:17:30-04:00",
+			"url": "https://muncman.micro.blog/2017/06/26/ugh-i-apparently.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/06/21/more-than-of.html",
+	      	
+			"content_text": "More than 140 of the apps on my iPad are...",
+			"date_published": "2017-06-20T22:49:22-04:00",
+			"url": "https://muncman.micro.blog/2017/06/20/more-than-of.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/06/09/traveling-and-beachgoing.html",
+	      	
+			"content_text": "Traveling and beach-going with an original Apple Watch means the...",
+			"date_published": "2017-06-08T22:19:19-04:00",
+			"url": "https://muncman.micro.blog/2017/06/08/traveling-and-beachgoing.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/05/12/i-like-people.html",
+	      	
+			"content_text": "I like people, but I’m less of a fan of...",
+			"date_published": "2017-05-11T20:07:44-04:00",
+			"url": "https://muncman.micro.blog/2017/05/11/i-like-people.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/05/11/i-think-i.html",
+	      	
+			"content_text": "I think I might give Spacemacs a try.\n",
+			"date_published": "2017-05-11T07:39:31-04:00",
+			"url": "https://muncman.micro.blog/2017/05/11/i-think-i.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/05/05/lolling-at-my.html",
+	      	
+			"content_text": "Lolling at my tag-as-accidental-header goof of my first Micro.blog post....",
+			"date_published": "2017-05-04T22:01:04-04:00",
+			"url": "https://muncman.micro.blog/2017/05/04/lolling-at-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2017/05/05/is-this-thing.html",
+	      	
+			"content_text": "Is this thing on…?\n\n#auspiciousStart\n",
+			"date_published": "2017-05-04T21:59:17-04:00",
+			"url": "https://muncman.micro.blog/2017/05/04/is-this-thing.html"
+		}
+		
+	]
+}
