@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://muncman.micro.blog/2018/12/06/193111.html",
+	      	
+			"content_html": "<p>I could go for a new album from Toad the Wet Sprocket. 🎧</p>\n",
+			"date_published": "2018-12-06T14:31:11-05:00",
+			"url": "https://muncman.micro.blog/2018/12/06/193111.html"
+		},
+		
+		{
 			"id": "http://muncman.micro.blog/2018/12/06/if-im-on.html",
 	      	
 			"content_html": "<p>If I’m on the ‘features’ page for your desktop email app, and a search for “security” has zero hits, I’m stopping right there.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>Just listened to the latest episode of the Release Notes podcast.</p>\n\n<p>And now looking forward to a future conference talk by <a href=\"https://micro.blog/joec\">@joec</a> on the virtues of unit testing.</p>\n\n<p>😜</p>\n\n<p>(Dismounts high horse /) \n(Logs a soda in a slick app /)</p>\n",
 			"date_published": "2018-10-01T13:05:32-04:00",
 			"url": "https://muncman.micro.blog/2018/10/01/just-listened-to.html"
-		},
-		
-		{
-			"id": "http://muncman.micro.blog/2018/10/01/032817.html",
-	      	
-			"content_html": "<p>My wife is an incredible woman. Today marks 23 years of marriage with her. The phrase “better half” doesn’t do her justice.</p>\n\n<p>I am very lucky, indeed.</p>\n",
-			"date_published": "2018-09-30T23:28:17-04:00",
-			"url": "https://muncman.micro.blog/2018/09/30/032817.html"
 		}
 		
 	]
