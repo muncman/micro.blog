@@ -1,0 +1,56 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Kevin Munc"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/muncman\">@muncman on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/muncman\">@muncman on Micro.blog</a>."
+baseurl: ""
+url: "https://muncman.micro.blog"
+markdown: "kramdown"
+username: "muncman"
+microblog_user: "muncman"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Kevin Munc"
+name: "Kevin Munc"
+gravatar_hash: "3ee22ea88165404d28dea71b0cfb723d"
+avatar: "https://micro.blog/muncman/avatar.jpg"
+full_name: "Kevin Munc"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "1388"
+gems: ["jekyll-paginate"]
+itunes_description: "Metal. Code. Family. "
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Kevin Munc"
+itunes_email: ""
+podcast: false
