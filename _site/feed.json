@@ -1,0 +1,212 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kevin Munc",
+	"icon": "https://micro.blog/muncman/avatar.jpg",
+	"home_page_url": "https://muncman.micro.blog/",
+	"feed_url": "https://muncman.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/06/if-im-on.html",
+	      	
+			"content_html": "<p>If I’m on the ‘features’ page for your desktop email app, and a search for “security” has zero hits, I’m stopping right there.</p>\n",
+			"date_published": "2018-12-05T23:10:59-05:00",
+			"url": "https://muncman.micro.blog/2018/12/05/if-im-on.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/05/im-not-sure.html",
+	      	
+			"content_html": "<p>I’m not sure I’m doing this right.</p>\n\n<p>(Note: ‘this’ is just about everything today.)</p>\n",
+			"date_published": "2018-12-05T14:36:07-05:00",
+			"url": "https://muncman.micro.blog/2018/12/05/im-not-sure.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/12/02/i-enjoy-this.html",
+	      	
+			"content_html": "<p>I enjoy <a href=\"https://www.instagram.com/p/Bq5DvAYlU9t/?utm_source=ig_share_sheet&amp;igshid=1sh3u70cay95l\">this IG account my friend has which depicts old-timey robots</a>.</p>\n",
+			"date_published": "2018-12-02T15:12:33-05:00",
+			"url": "https://muncman.micro.blog/2018/12/02/i-enjoy-this.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/14/i-could-use.html",
+	      	
+			"content_html": "<p>I could use a batch delete option in Overcast. Is there one I’m overlooking?</p>\n\n<p>This is probably not news to anyone, but the <a href=\"https://timetable.manton.org/\">Timetable</a> move caused all prior episodes to re-download. This has happened to me for other podcasts in the past. Not a frequent issue, but still a chore.</p>\n",
+			"date_published": "2018-11-14T11:57:58-05:00",
+			"url": "https://muncman.micro.blog/2018/11/14/i-could-use.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/13/im-not-a.html",
+	      	
+			"content_html": "<p>I’m not a huge fan of Grand Funk Railroad, but I totally love <a href=\"https://youtu.be/NxcOxvEsE_Y\">Inside Looking Out</a> and <a href=\"https://youtu.be/vPdKSlQOBYE\">Sin’s a Good Man’s Brother</a>.</p>\n",
+			"date_published": "2018-11-12T21:28:11-05:00",
+			"url": "https://muncman.micro.blog/2018/11/12/im-not-a.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/13/when-the-day.html",
+	      	
+			"content_html": "<p>When the day comes that I get a (semi-)hollow body electric guitar, one of the first things I’ll want to play on it are <a href=\"https://youtu.be/E3gxQ1tetAQ\">the solos in this song: Gene Vincent • Race with The Devil</a>.</p>\n",
+			"date_published": "2018-11-12T21:03:30-05:00",
+			"url": "https://muncman.micro.blog/2018/11/12/when-the-day.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/08/i-like-my.html",
+	      	
+			"content_html": "<p>I like my GIF like I like my gin: tasty and satisfyingly pronounced.</p>\n",
+			"date_published": "2018-11-08T17:08:09-05:00",
+			"url": "https://muncman.micro.blog/2018/11/08/i-like-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/08/im-not-big.html",
+	      	
+			"content_html": "<p>I’m not big on cross-posting, but I also don’t expect Pnut.io to show up as a built-in option for m•b any time soon either.</p>\n",
+			"date_published": "2018-11-07T20:21:48-05:00",
+			"url": "https://muncman.micro.blog/2018/11/07/im-not-big.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/06/voting-accomplished-vote.html",
+	      	
+			"content_html": "<p>Voting accomplished.</p>\n\n<p>VOTE VOTE VOTE \nVOTE VOTE VOTE \nVOTE VOTE VOTE \nVOTE VOTE VOTE \nVOTE VOTE VOTE</p>\n",
+			"date_published": "2018-11-06T08:38:49-05:00",
+			"url": "https://muncman.micro.blog/2018/11/06/voting-accomplished-vote.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/03/080109.html",
+	      	
+			"content_html": "<p>I think I just accidentally started NaNoWriMo-ing.</p>\n",
+			"date_published": "2018-11-03T04:01:09-04:00",
+			"url": "https://muncman.micro.blog/2018/11/03/080109.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/03/ive-never-had.html",
+	      	
+			"content_html": "<p>I’ve never had one myself, but I must say that I’m happy that the heavy metal, patch-laden denim vest tradition carries on today. I still see at least a handful at every metal show.</p>\n",
+			"date_published": "2018-11-02T21:49:50-04:00",
+			"url": "https://muncman.micro.blog/2018/11/02/ive-never-had.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/01/i-think-my.html",
+	      	
+			"content_html": "<p>I think my stick-shift car (GTI) is posing some issues for the current valet staff.</p>\n",
+			"date_published": "2018-11-01T13:50:39-04:00",
+			"url": "https://muncman.micro.blog/2018/11/01/i-think-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/11/01/once-again-my.html",
+	      	
+			"content_html": "<p>Once again, my smoke machine was appreciated on Halloween.</p>\n",
+			"date_published": "2018-11-01T00:08:55-04:00",
+			"url": "https://muncman.micro.blog/2018/11/01/once-again-my.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/30/ive-spent-so.html",
+	      	
+			"content_html": "<p>I’ve spent so long waiting for a new Mac mini, and yet I’m not ready to pull the trigger.</p>\n\n<p>Let’s hope that, when I do, I don’t go for the $4200 configuration. ;)</p>\n",
+			"date_published": "2018-10-30T16:48:13-04:00",
+			"url": "https://muncman.micro.blog/2018/10/30/ive-spent-so.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/30/this-short-episode.html",
+	      	
+			"content_html": "<p>This short episode about shipping vessel noise’s impact on dolphin communication actually made me think of Twitter &amp; social media (less rich, yelled communication, potential impact to the young) • <a href=\"https://overcast.fm/+MmI5uUc\">‘…sound is also an emission’</a></p>\n",
+			"date_published": "2018-10-30T10:42:03-04:00",
+			"url": "https://muncman.micro.blog/2018/10/30/this-short-episode.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/21/i-really-like.html",
+	      	
+			"content_html": "<p>I really like <a href=\"https://instagram.com/mr_reno?utm_source=ig_profile_share&amp;igshid=179bwqw3r3d2s\">Clinton Reno’s concert poster style</a>.</p>\n\n<p>I only have one of his prints myself, but he used to live here (in Cbus_OH) and I did convince him to sign the one I have. :)</p>\n",
+			"date_published": "2018-10-21T15:14:18-04:00",
+			"url": "https://muncman.micro.blog/2018/10/21/i-really-like.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/16/sometimes-i-make.html",
+	      	
+			"content_html": "<p>Sometimes I make mistakes.</p>\n\n<p>And being on muscle relaxers for a back injury don’t appear to help in this regard.</p>\n",
+			"date_published": "2018-10-16T01:06:23-04:00",
+			"url": "https://muncman.micro.blog/2018/10/16/sometimes-i-make.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/08/if-tld-was.html",
+	      	
+			"content_html": "<p>If .tld was available as an actual top level domain you could register, I’d get one.</p>\n",
+			"date_published": "2018-10-08T19:26:23-04:00",
+			"url": "https://muncman.micro.blog/2018/10/08/if-tld-was.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/05/we-had-to.html",
+	      	
+			"content_html": "<p>We had to say goodbye to our dog of 9 years yesterday. She was a rescue, and we think about 11 years old. I’m missing her more than I expected.</p>\n",
+			"date_published": "2018-10-05T11:35:05-04:00",
+			"url": "https://muncman.micro.blog/2018/10/05/we-had-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/05/missed-metal.html",
+	      	
+			"title": "Missed Metal",
+			
+			"content_html": "<p>Another metal show was in town last night, but I couldn’t justify going to another one already. Hopefully Unleash the Archers and Striker come back through again soon.</p>\n\n<p>I’ll also be missing After the Burial, Acacia Strain and Erra next week, and I’ll likely also have to pass on Cannibal Corpse on ‘metal day’ 11-11.</p>\n",
+			"date_published": "2018-10-05T11:31:15-04:00",
+			"url": "https://muncman.micro.blog/2018/10/05/missed-metal.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/04/well-trill-sounds.html",
+	      	
+			"content_html": "<p>Well, Trill sounds interesting: <a href=\"https://itunes.apple.com/us/story/id1426990890\">From the iOS App Store —- Tap to meet the 17-year-old co-creator of Trill, a supportive social network</a>.</p>\n",
+			"date_published": "2018-10-04T01:13:45-04:00",
+			"url": "https://muncman.micro.blog/2018/10/04/well-trill-sounds.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/04/at-my-second.html",
+	      	
+			"content_html": "<p>At my second metal concert of the fall:  Goatmill (who I, unfortunately, had to miss), Wolfheart, Mors Principium Est, and Carach Angren.</p>\n\n<p>MPE is up right now (and oddly missing their bass player). Wolfheart was excellent! Excited for CA soon! \n🎸🤘</p>\n",
+			"date_published": "2018-10-03T20:54:45-04:00",
+			"url": "https://muncman.micro.blog/2018/10/03/at-my-second.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/02/i-support-the.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>I support the EFF. Do you? [Protect the Free, Fair, and Open Internet</td>\n      <td>Electronic Frontier Foundation](https://supporters.eff.org/donate/sb822-victory-c)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-10-02T16:30:13-04:00",
+			"url": "https://muncman.micro.blog/2018/10/02/i-support-the.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/01/just-listened-to.html",
+	      	
+			"content_html": "<p>Just listened to the latest episode of the Release Notes podcast.</p>\n\n<p>And now looking forward to a future conference talk by <a href=\"https://micro.blog/joec\">@joec</a> on the virtues of unit testing.</p>\n\n<p>😜</p>\n\n<p>(Dismounts high horse /) \n(Logs a soda in a slick app /)</p>\n",
+			"date_published": "2018-10-01T13:05:32-04:00",
+			"url": "https://muncman.micro.blog/2018/10/01/just-listened-to.html"
+		},
+		
+		{
+			"id": "http://muncman.micro.blog/2018/10/01/032817.html",
+	      	
+			"content_html": "<p>My wife is an incredible woman. Today marks 23 years of marriage with her. The phrase “better half” doesn’t do her justice.</p>\n\n<p>I am very lucky, indeed.</p>\n",
+			"date_published": "2018-09-30T23:28:17-04:00",
+			"url": "https://muncman.micro.blog/2018/09/30/032817.html"
+		}
+		
+	]
+}
