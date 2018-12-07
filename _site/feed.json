@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://muncman.micro.blog/2018/12/07/til-there-are.html",
+	      	
+			"content_html": "<p>TIL: there are metal versions of Studio Ghibli songs.</p>\n\n<p>The world is a fantastic place sometimes. \n🤘</p>\n",
+			"date_published": "2018-12-07T03:30:13-05:00",
+			"url": "https://muncman.micro.blog/2018/12/07/til-there-are.html"
+		},
+		
+		{
 			"id": "http://muncman.micro.blog/2018/12/06/193111.html",
 	      	
 			"content_html": "<p>I could go for a new album from Toad the Wet Sprocket. 🎧</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>I support the EFF. Do you? [Protect the Free, Fair, and Open Internet</td>\n      <td>Electronic Frontier Foundation](https://supporters.eff.org/donate/sb822-victory-c)</td>\n    </tr>\n  </tbody>\n</table>\n",
 			"date_published": "2018-10-02T16:30:13-04:00",
 			"url": "https://muncman.micro.blog/2018/10/02/i-support-the.html"
-		},
-		
-		{
-			"id": "http://muncman.micro.blog/2018/10/01/just-listened-to.html",
-	      	
-			"content_html": "<p>Just listened to the latest episode of the Release Notes podcast.</p>\n\n<p>And now looking forward to a future conference talk by <a href=\"https://micro.blog/joec\">@joec</a> on the virtues of unit testing.</p>\n\n<p>😜</p>\n\n<p>(Dismounts high horse /) \n(Logs a soda in a slick app /)</p>\n",
-			"date_published": "2018-10-01T13:05:32-04:00",
-			"url": "https://muncman.micro.blog/2018/10/01/just-listened-to.html"
 		}
 		
 	]
